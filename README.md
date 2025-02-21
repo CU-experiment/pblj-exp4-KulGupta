@@ -129,7 +129,7 @@
     }
     
     
-#Create a program to collect and store all the cards to assist the users in finding all the cards in a given symbol using Collection interface.
+# Create a program to collect and store all the cards to assist the users in finding all the cards in a given symbol using Collection interface.
 
     import java.util.*;
 
@@ -234,7 +234,7 @@
     }
     }
     
-#Develop a ticket booking system with synchronized threads to ensure no double booking of seats. Use thread priorities to simulate VIP bookings being processed first.
+# Develop a ticket booking system with synchronized threads to ensure no double booking of seats. Use thread priorities to simulate VIP bookings being processed first.
 
     import java.util.concurrent.locks.Lock;
     import java.util.concurrent.locks.ReentrantLock;
